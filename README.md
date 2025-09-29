@@ -12,23 +12,6 @@
 
 ---
 
-## 🔨 Projects  
-Here are some things I’ve been building:  
-
-### 🖥 Type Racer App (JavaFX)  
-An educational typing app with real-time feedback and scoring.  
-
-### 🧙 Wizard Fight (Unity, C#)  
-An interactive game project exploring object-oriented design.  
-
-### 📊 Python + SQL Data Analysis Project  
-Built dashboards and queries to analyze datasets.  
-
-### 🌍 Hackathon Project: Wayfinder  
-Designed a platform to encourage real-world exploration and face-to-face connections.  
-
----
-
 ## 🛠 Skills  
 - **Languages:** Python, Java, C#, JavaScript, SQL  
 - **Frameworks & Tools:** Flask, React, Unity, Electron, Git  
