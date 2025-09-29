@@ -1,36 +1,40 @@
-##👋 Hi, I’m Luis Gutierrez
+# 👋 Hi, I’m Luis Gutierrez  
 
-🎓 Computer Science Student | 🎓 English BA | 💡 Passionate about building software that helps people learn, connect, and grow.
+🎓 **Computer Science Student** | 🎓 **English BA** | 💡 Passionate about building software that helps people learn, connect, and grow.  
 
-##🚀 About Me
+---
 
-🌱 Currently studying Computer Science and exploring data science, software engineering, and product management.
+## 🚀 About Me  
+- 🌱 Currently studying **Computer Science** and exploring **data science, software engineering, and product management**.  
+- 🛠 Experienced in **Python, Java, C#, SQL, and JavaScript**.  
+- 💬 Love working in teams — hackathons, group projects, and discussions energize me.  
+- 🌍 Background in **English & communication** → I enjoy blending storytelling with technology.  
 
-🛠 Experienced in Python, Java, C#, SQL, and JavaScript.
+---
 
-💬 Love working in teams — hackathons, group projects, and discussions energize me.
+## 🔨 Projects  
+Here are some things I’ve been building:  
 
-🌍 Background in English & communication → I enjoy blending storytelling with technology.
+### 🖥 Type Racer App (JavaFX)  
+An educational typing app with real-time feedback and scoring.  
 
-##🔨 Projects
+### 🧙 Wizard Fight (Unity, C#)  
+An interactive game project exploring object-oriented design.  
 
-Here are some things I’ve been building/built:
+### 📊 Python + SQL Data Analysis Project  
+Built dashboards and queries to analyze datasets.  
 
-Type Racer App (JavaFX) → Educational typing app with real-time feedback and scoring.
+### 🌍 Hackathon Project: Wayfinder  
+Designed a platform to encourage real-world exploration and face-to-face connections.  
 
-Wizard Fight (Unity, C#) → Interactive game project exploring object-oriented design.
+---
 
-Python + SQL Data Analysis Project → Built dashboards and queries to analyze datasets.
+## 🛠 Skills  
+- **Languages:** Python, Java, C#, JavaScript, SQL  
+- **Frameworks & Tools:** Flask, React, Unity, Electron, Git  
+- **Other:** Data Visualization, UI/UX concepts, Agile teamwork  
 
-Hackathon Project (Wayfinder) → Designed a platform to encourage real-world exploration and face-to-face connections.
-
-##🛠 Skills
-
-Languages: Python, Java, C#, JavaScript, SQL
-
-Frameworks/Tools: Flask, React, Unity, Electron, Git
-
-Other: Data Visualization, UI/UX concepts, Agile teamwork
+---
 
 ##📫 Connect with Me
 
