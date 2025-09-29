@@ -1,14 +1,14 @@
 # 👋 Hi, I’m Luis Gutierrez  
 
-🎓 **Computer Science Student** | 🎓 **English BA** | 💡 Passionate about building software that helps people learn, connect, and grow.  
+🎓 **Computer Science Student** | 🎓 **English BA** | 💡 Passionate about building software that helps people learn and connect!.  
 
 ---
 
 ## 🚀 About Me  
-- 🌱 Currently studying **Computer Science** and exploring **data science, software engineering, and product management**.  
-- 🛠 Experienced in **Python, Java, C#, SQL, and JavaScript**.  
-- 💬 Love working in teams — hackathons, group projects, and discussions energize me.  
-- 🌍 Background in **English & communication** → I enjoy blending storytelling with technology.  
+- 🌱 Currently studying **Computer Science** and exploring **data science, software engineering, and product management**.   
+- 💬 Love working in teams — hackathons, group projects, team discussions. 
+- 🌍 Background in **English & communication** → I enjoy blending storytelling with technology.
+- 🦸 Hobbies include comic book collecting, playing video games, and going to concerts!
 
 ---
 
