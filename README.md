@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Luis Gutierrez  
 
-🎓 **Computer Science Student** | 🎓 **English BA** | 💡 Passionate about building software that helps people learn and connect!.  
+🎓 **Computer Science Student** | 🎓 **English BA** | 💡 Passionate about building software that helps people learn and connect!  
 
 ---
 
