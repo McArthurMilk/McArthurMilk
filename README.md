@@ -13,7 +13,7 @@
 ---
 
 ## 🛠 Skills  
-- **Languages:** Python, Java, C#, SQL  
+- **Languages:** Python, Java, C#, HTML
 - **Frameworks & Tools:** Flask, Streamlit, Django, React, Unity, Git, GitHub  
 - **Other:** Data Visualization, UI/UX concepts, Agile teamwork  
 
