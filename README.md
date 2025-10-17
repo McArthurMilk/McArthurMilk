@@ -6,7 +6,7 @@
 
 ## 🚀 About Me  
 - 🌱 Currently studying **Computer Science** and exploring **data science, software engineering, and product management**.   
-- 💬 Love working in teams — hackathons, group projects, team discussions. 
+- 💬 Love working in teams such as in hackathons, group projects, team discussions. 
 - 🌍 Background in **English & communication** → I enjoy blending storytelling with technology.
 - 🦸 Hobbies include comic book collecting, playing video games, and going to concerts!
 
